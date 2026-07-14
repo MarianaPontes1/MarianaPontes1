@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=900&color=A855F7&width=700&lines=hi%2C+i'm+seu+nome+%F0%9F%91%8B;computer+science+student;building+things+with+AI+%F0%9F%A7%A0;exploring+medical+image+segmentation+%F0%9F%A9%BB" />
 <!--
 **MarianaPontes1/MarianaPontes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
