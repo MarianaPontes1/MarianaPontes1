@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=2000&color=84CC16&width=700&lines=Hey+there!%2C+I'm+Mariana" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=2000&color=84CC16&width=700&lines=Hey+there%2C+I%27m+Mariana!+%F0%9F%91%8B" />
 <!--
 **MarianaPontes1/MarianaPontes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
